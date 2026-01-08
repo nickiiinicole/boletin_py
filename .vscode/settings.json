@@ -1,6 +1,7 @@
 {
     "conventionalCommits.scopes": [
         "INITIAL",
-        "CODING"
+        "CODING",
+        "TESTING"
     ]
 }
